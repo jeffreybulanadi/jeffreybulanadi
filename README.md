@@ -1,16 +1,70 @@
-## Hi there 👋
+# Jeffrey Bulanadi
 
-<!--
-**jeffreybulanadi/jeffreybulanadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/nyancat.gif" alt="Nyan Cat" width="400"/>
+</div>
 
-Here are some ideas to get you started:
+### 🚀 Professional Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Seasoned ERP specialist with over a decade of experience in Microsoft Technology and Open Source.
+- 🏢 Successfully delivered 250+ projects across local, Southeast Asian, European, and US markets.
+- 🛠️ Expert in Business Central/NAV customization and third-party integrations
+- 🔄 DevOps practitioner with expertise in Azure DevOps and GitHub
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffreybulanadi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreybulanadi&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+### 🛠️ Technologies & Tools
+
+![](https://img.shields.io/badge/ERP-Dynamics_365_BC-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-AL/CAL-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BI-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Dev-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Retail-LS_Retail-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeffreybulanadi/)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:jeffrey.d.bulanadi@gmail.com)
+
+### 🛠️ Technologies & Tools
+
+![](https://img.shields.io/badge/ERP-Dynamics_365_BC-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-AL/CAL-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BI-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Dev-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Retail-LS_Retail-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jeffreybulanadi)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/jeffreybulanadi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+
+### 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 40 mins  ███████████░░░░░░░░  45.50%
+TypeScript   8 hrs 35 mins   ██████░░░░░░░░░░░░░  30.80%
+Python       4 hrs 12 mins   ███░░░░░░░░░░░░░░░░  15.10%
+Docker       1 hr 25 mins    █░░░░░░░░░░░░░░░░░░   5.10%
+Other        1 hr 2 mins     █░░░░░░░░░░░░░░░░░░   3.50%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeffreybulanadi&color=blue&style=flat-square" alt="Profile views" />
+</div>
