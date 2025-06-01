@@ -31,25 +31,8 @@
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeffreybulanadi/)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail)](mailto:jeffrey.d.bulanadi@gmail.com)
-
-### 🛠️ Technologies & Tools
-
-![](https://img.shields.io/badge/ERP-Dynamics_365_BC-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-AL/CAL-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/BI-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Dev-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Retail-LS_Retail-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-
-### 🤝 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jeffreybulanadi)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/jeffreybulanadi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![X](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://x.com/JeffreyBulanadi)
 
 ### 📈 Weekly Development Breakdown
 
