@@ -56,12 +56,7 @@ PowerShell               1 repo              ████░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/assets/bar_graph.png)
-
-
- Last Updated on 02/06/2025 01:13:16 UTC
 <!--END_SECTION:waka-->
 
 ---
