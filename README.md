@@ -37,6 +37,31 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in AL** 
+
+```text
+AL                       2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+VBA                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Visual Basic .NET        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+PowerShell               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/assets/bar_graph.png)
+
+
+ Last Updated on 02/06/2025 01:13:16 UTC
 <!--END_SECTION:waka-->
 
 ---
