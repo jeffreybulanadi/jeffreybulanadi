@@ -1,7 +1,7 @@
 # Jeffrey Bulanadi
 
 <div align="center">
-  <img src="https://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="400"/>
+  <img src="https://www.nyan.cat/cats/nyaninja.gif" alt="Nyan Ninja Cat" width="400"/>
 </div>
 
 ### < Hello_World />
