@@ -1,15 +1,16 @@
 # Jeffrey Bulanadi
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/master/nyancat.gif" alt="Nyan Cat" width="400"/>
+  <img src="https://www.nyan.cat/cats/original.gif" alt="Nyan Cat" width="400"/>
 </div>
 
-### 🚀 Professional Summary
+### < Hello_World />
 
-- 💼 Seasoned ERP specialist with over a decade of experience in Microsoft Technology and Open Source.
-- 🏢 Successfully delivered 250+ projects across local, Southeast Asian, European, and US markets.
-- 🛠️ Expert in Business Central/NAV customization and third-party integrations
-- 🔄 DevOps practitioner with expertise in Azure DevOps and GitHub
+- 🎨 Software Artisan weaving business logic into digital masterpieces
+- 💼 Level 99 Developer with 10+ years of Microsoft & Open Source mastery
+- 🏢 Legendary Quest Log: 250+ missions accomplished across Asia, Europe, and US realms
+- 🛠️ Tech Alchemist specializing in ERP transformations and system integrations
+- 🔄 DevOps Sage commanding Azure clouds and GitHub repositories
 
 ### 📊 GitHub Stats
 
@@ -37,26 +38,6 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in AL** 
-
-```text
-AL                       2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-VBA                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Visual Basic .NET        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-PowerShell               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 ---
