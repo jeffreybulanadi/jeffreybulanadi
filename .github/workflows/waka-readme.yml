@@ -12,10 +12,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          
+      - name: Configure Git
+        run: |
+          git config --local user.email "${{ secrets.GIT_EMAIL }}"
+          git config --local user.name "${{ secrets.GIT_NAME }}"
+          
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
