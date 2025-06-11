@@ -38,3 +38,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_UPDATED_DATE: "False"
+          COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: ${{ secrets.GIT_NAME }}
+          COMMIT_EMAIL: ${{ secrets.GIT_EMAIL }}
