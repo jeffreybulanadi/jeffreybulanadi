@@ -2,8 +2,14 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs twice daily on weekdays (Monday-Friday) at 6am and 6pm IST
+    - cron: '30 0 * * 1-5'   # 6am IST (00:30 UTC)
+    - cron: '30 12 * * 1-5'  # 6pm IST (12:30 UTC)
+    # Runs 4 times during weekends (Saturday-Sunday) at 6am, 12pm, 6pm, 12am IST
+    - cron: '30 0 * * 6-0'   # 6am IST (00:30 UTC)
+    - cron: '30 6 * * 6-0'   # 12pm IST (06:30 UTC)
+    - cron: '30 12 * * 6-0'  # 6pm IST (12:30 UTC)
+    - cron: '30 18 * * 6-0'  # 12am IST (18:30 UTC)
   workflow_dispatch:
 
 jobs:
