@@ -38,7 +38,7 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2028%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
