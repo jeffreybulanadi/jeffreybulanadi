@@ -19,17 +19,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffreybulanadi&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-### 🛠️ Technologies & Tools
-
-![](https://img.shields.io/badge/ERP-Dynamics_365_BC-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-AL/CAL-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/BI-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Dev-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Retail-LS_Retail-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-
 ### 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jeffreybulanadi)
