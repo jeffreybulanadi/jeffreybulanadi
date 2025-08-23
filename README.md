@@ -12,6 +12,20 @@
 - 🛠️ Tech Alchemist for ERP transformations, system integrations, and modular architecture.
 - 🔄 DevOps Sage orchestrating CI/CD pipelines across Azure clouds and GitHub repositories
 
+### 🎮 GitHub Contributions Breakout Game
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-dark.svg" />
+</picture>
+
 ### 📊 GitHub Stats
 
 <div align="center">
