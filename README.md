@@ -44,17 +44,17 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   41.00 % 
-JSON                     6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-AL                       4 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Other                    2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-Bash                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Markdown                 11 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   38.16 % 
+JSON                     7 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+AL                       5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Other                    2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Bash                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 ```
 
 
