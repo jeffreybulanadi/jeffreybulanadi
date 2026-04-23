@@ -23,14 +23,16 @@
 </div>
 
 **[BC Docker Manager](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager)**  
-[![Version](https://img.shields.io/visual-studio-marketplace/v/jeffreybulanadi.bc-docker-manager?label=version&style=flat-square&color=0078d7)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/jeffreybulanadi.bc-docker-manager?style=flat-square&color=63ba83)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager)
+[![Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/bc-docker-manager-version.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager)
+[![Installs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/bc-docker-manager-installs.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager)
+[![Rating](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/bc-docker-manager-rating.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager)
 
 A lightweight, all-in-one control center for Business Central Docker development inside VS Code. Browse artifacts, create containers, manage environments, and develop AL apps without BcContainerHelper or Docker Desktop.
 
 **[AL Indent Prism](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism)**  
-[![Version](https://img.shields.io/visual-studio-marketplace/v/jeffreybulanadi.al-indent-prism?label=version&style=flat-square&color=0066CC)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/jeffreybulanadi.al-indent-prism?style=flat-square&color=63ba83)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism)
+[![Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/al-indent-prism-version.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism)
+[![Installs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/al-indent-prism-installs.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism)
+[![Rating](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/al-indent-prism-rating.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism)
 
 Rainbow indentation colorizer for Business Central AL files. Lightweight, real-time, and fully configurable. Makes nested AL code actually readable.
 
