@@ -1,11 +1,7 @@
 # Hey, I'm Jeffrey Bulanadi
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Software+Artisan+%7C+13%2B+Years;ERP+%26+Systems+Integration+Expert;Full+Stack+Dev+%7C+DevOps+%7C+Cloud;350%2B+Implementations+Worldwide" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://www.nyan.cat/cats/nyaninja.gif" alt="Nyan Ninja Cat" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Business+Central.+Reverse+Engineered.;13%2B+Years+%C2%B7+ERP+%C2%B7+Integrations+%C2%B7+DevOps;350%2B+Implementations+Worldwide;Building+tools.+Writing+deep+dives." alt="Typing SVG" />
 </div>
 
 ---
@@ -20,21 +16,35 @@
 
 ---
 
-### Armory (Tech Stack)
+### Built & Shipped
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AL](https://img.shields.io/badge/AL_(Business_Central)-0066CC?style=flat-square&logo=microsoft&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=flat-square&logo=microsoftdynamics365&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**[BC Docker Manager](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager)**  
+[![Version](https://img.shields.io/visual-studio-marketplace/v/jeffreybulanadi.bc-docker-manager?label=version&style=flat-square&color=0078d7)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/jeffreybulanadi.bc-docker-manager?style=flat-square&color=63ba83)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager)
+
+A lightweight, all-in-one control center for Business Central Docker development inside VS Code — browse artifacts, create containers, manage your environment, and develop AL apps without BcContainerHelper or Docker Desktop.
+
+**[AL Indent Prism](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism)**  
+[![Version](https://img.shields.io/visual-studio-marketplace/v/jeffreybulanadi.al-indent-prism?label=version&style=flat-square&color=0066CC)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/jeffreybulanadi.al-indent-prism?style=flat-square&color=63ba83)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism)
+
+Rainbow indentation colorizer for Business Central AL files — lightweight, real-time, and fully configurable. Makes nested AL code actually readable.
+
+---
+
+### Writing
+
+**[learnbeyondbc.com](https://learnbeyondbc.com)** — Business Central, Reverse Engineered.
+
+Real-world AL patterns, integration secrets, and platform deep dives. Written for developers who want to understand what's actually happening under the hood.
+
+<!--START_SECTION:blog-->
+- [BC Docker Manager: The Easiest Way to Run Business Central Containers](https://learnbeyondbc.com/blogs/bc-docker-manager-easy-containers) — Apr 2026 · 6 min read
+- [Connecting Postman Directly to Azure DevOps & GitHub Repository](https://learnbeyondbc.com/blogs/connecting-postman-to-azure-devops-github-repositories) — Jan 2026 · 5 min read
+- [Using Raw URLs to Import Postman Collections from Azure DevOps & GitHub](https://learnbeyondbc.com/blogs/using-raw-urls-to-import-postman-collections-azure-devops-github) — Jan 2026 · 7 min read
+<!--END_SECTION:blog-->
+
+[20+ posts and counting &rarr;](https://learnbeyondbc.com)
 
 ---
 
@@ -51,19 +61,6 @@
   <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
   <img alt="Breakout Game" src="images/breakout-dark.svg" />
 </picture>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeffreybulanadi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=jeffreybulanadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreybulanadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
@@ -96,9 +93,3 @@ AL                       53 mins             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeffreybulanadi&color=blue&style=flat-square" alt="Profile views" />
-</div>
