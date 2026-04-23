@@ -43,9 +43,9 @@ Rainbow indentation colorizer for Business Central AL files. Lightweight, real-t
 Real-world AL patterns, integration secrets, and platform deep dives. Written for developers who want to understand what's actually happening under the hood.
 
 <!--START_SECTION:blog-->
-- [BC Docker Manager: The Easiest Way to Run Business Central Containers](https://learnbeyondbc.com/blogs/bc-docker-manager-easy-containers) · Apr 2026 · 6 min read
-- [Connecting Postman Directly to Azure DevOps & GitHub Repository](https://learnbeyondbc.com/blogs/connecting-postman-to-azure-devops-github-repositories) · Jan 2026 · 5 min read
-- [Using Raw URLs to Import Postman Collections from Azure DevOps & GitHub](https://learnbeyondbc.com/blogs/using-raw-urls-to-import-postman-collections-azure-devops-github) · Jan 2026 · 7 min read
+- [BC Docker Manager: The Easiest Way to Run Business Central Containers](https://learnbeyondbc.com/blogs/bc-docker-manager-easy-containers) · Apr 2026
+- [Connecting Postman Directly to Azure DevOps & GitHub Repository](https://learnbeyondbc.com/blogs/connecting-postman-to-azure-devops-github-repositories) · Jan 2026
+- [Using Raw URLs to Import Postman Collections from Azure DevOps & GitHub](https://learnbeyondbc.com/blogs/using-raw-urls-to-import-postman-collections-azure-devops-github) · Jan 2026
 <!--END_SECTION:blog-->
 
 [20+ posts and counting &rarr;](https://learnbeyondbc.com)
