@@ -31,6 +31,10 @@ jobs:
         run: node screenshot-extensions.js
         working-directory: .github/scripts
 
+      - name: Fetch extension stats (installs, version, rating)
+        run: node fetch-extension-stats.js
+        working-directory: .github/scripts
+
       - name: Install ImageMagick
         run: sudo apt-get install -y imagemagick
 
@@ -53,7 +57,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images/ext-bc-docker-manager.png \
                   images/ext-al-indent-prism.png \
-                  images/extensions-showcase.gif
+                  images/extensions-showcase.gif \
+                  badges/
           git diff --cached --quiet \
-            || git commit -m "chore: refresh extension marketplace screenshots" \
+            || git commit -m "chore: refresh extension screenshots and stats" \
             && git push
