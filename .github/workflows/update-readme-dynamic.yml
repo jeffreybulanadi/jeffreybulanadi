@@ -2,7 +2,7 @@ name: Update Dynamic Content
 
 on:
   schedule:
-    - cron: '0 2 * * *'   # 02:00 UTC (10:00 PHT) — runs daily, commits only on year rollover
+    - cron: '0 2 * * *'   # 02:00 UTC (10:00 PHT) runs daily, commits only on year rollover
   workflow_dispatch:
 
 jobs:
