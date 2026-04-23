@@ -1,0 +1,83 @@
+name: Sync Blog Posts from RSS
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # 03:00 UTC (11:00 PHT) daily
+  workflow_dispatch:
+
+jobs:
+  sync-blog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch RSS and update README
+        run: |
+          python3 << 'EOF'
+          import re, sys
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime
+
+          RSS_URL = 'https://learnbeyondbc.com/rss'
+          POST_COUNT = 3
+
+          try:
+              with urllib.request.urlopen(RSS_URL, timeout=15) as res:
+                  xml_data = res.read()
+          except Exception as e:
+              print(f'Failed to fetch RSS: {e}')
+              sys.exit(1)
+
+          root = ET.fromstring(xml_data)
+          items = root.find('channel').findall('item')[:POST_COUNT]
+
+          lines = []
+          for item in items:
+              title = item.findtext('title', '').strip()
+              link  = item.findtext('link',  '').strip()
+              pub   = item.findtext('pubDate', '').strip()
+              try:
+                  dt = datetime.strptime(pub, '%a, %d %b %Y %H:%M:%S %z')
+                  date_str = dt.strftime('%b %Y')
+              except Exception:
+                  date_str = ''
+              entry = f'- [{title}]({link})'
+              if date_str:
+                  entry += f' · {date_str}'
+              lines.append(entry)
+
+          block = '\n'.join(lines)
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          updated = re.sub(
+              r'(<!--START_SECTION:blog-->).*?(<!--END_SECTION:blog-->)',
+              f'\\1\n{block}\n\\2',
+              content,
+              flags=re.DOTALL
+          )
+
+          if updated == content:
+              print('No change — blog section already up to date.')
+              sys.exit(0)
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated)
+
+          print(f'README updated with {len(lines)} latest posts.')
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md \
+            || (git add README.md \
+            && git commit -m "chore: sync latest blog posts from RSS" \
+            && git push)
