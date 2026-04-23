@@ -8,37 +8,31 @@ const EXTENSIONS = [
   {
     url: 'https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager',
     output: 'ext-bc-docker-manager.png',
+    name: 'BC Docker Manager',
   },
   {
     url: 'https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism',
     output: 'ext-al-indent-prism.png',
+    name: 'AL Indent Prism',
   },
 ];
 
-// Ordered list of selectors to try for the extension header section.
-// The VS Code Marketplace uses dynamically generated class names, so we try
-// several candidates and fall back to a viewport clip if none match.
-const HEADER_SELECTORS = [
-  '.ux-item-header',
-  '.item-header',
-  '[class*="itemHeader"]',
-  '[class*="item-header"]',
-  '.gallery-item-header',
-];
+// Full-width clip of the page top: captures the VS Marketplace nav bar,
+// breadcrumb, extension logo, title, publisher, install count, rating,
+// price, short description, and Install button — exactly like the sample.
+const CLIP = { x: 0, y: 0, width: 1280, height: 420 };
 
-async function screenshotExtension(context, url, outputPath) {
+async function screenshotExtension(context, ext) {
   const page = await context.newPage();
 
   try {
-    console.log(`Navigating to ${url}`);
-    // 'networkidle' never fires on the Marketplace (endless background requests).
-    // Use 'domcontentloaded' then wait for a visible content element instead.
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    console.log(`Navigating to ${ext.url}`);
 
-    // Wait for the page title / install count area to appear
-    await page.waitForSelector('body', { timeout: 15000 });
+    // domcontentloaded is reliable; networkidle never fires on the Marketplace
+    // due to continuous background requests.
+    await page.goto(ext.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
-    // Dismiss cookie / consent banners if present
+    // Dismiss cookie / consent banners before anything else
     const consentBtn = page
       .locator('button:has-text("Accept"), button:has-text("OK"), button:has-text("I accept")')
       .first();
@@ -47,31 +41,21 @@ async function screenshotExtension(context, url, outputPath) {
       await page.waitForTimeout(500);
     }
 
-    // Buffer for lazy-loaded stats (install count, rating)
-    await page.waitForTimeout(4000);
+    // Wait until the extension name appears in an h1, confirming the card rendered
+    await page.waitForFunction(
+      (name) => {
+        const h1 = document.querySelector('h1');
+        return h1 && h1.textContent.includes(name);
+      },
+      ext.name,
+      { timeout: 20000 }
+    );
 
-    // Try to find and screenshot the header element
-    let captured = false;
-    for (const selector of HEADER_SELECTORS) {
-      const el = page.locator(selector).first();
-      const visible = await el.isVisible({ timeout: 2000 }).catch(() => false);
-      if (visible) {
-        await el.screenshot({ path: outputPath });
-        console.log(`  Captured via selector: ${selector}`);
-        captured = true;
-        break;
-      }
-    }
+    // Small extra buffer for install count / rating badges to load
+    await page.waitForTimeout(2500);
 
-    // Fallback: clip the top of the page where the header always lives
-    if (!captured) {
-      console.log('  No selector matched — falling back to viewport clip');
-      await page.screenshot({
-        path: outputPath,
-        clip: { x: 0, y: 0, width: 1280, height: 560 },
-      });
-    }
-
+    const outputPath = path.join(OUTPUT_DIR, ext.output);
+    await page.screenshot({ path: outputPath, clip: CLIP });
     console.log(`  Saved: ${outputPath}`);
   } finally {
     await page.close();
@@ -86,13 +70,12 @@ async function screenshotExtension(context, url, outputPath) {
   });
 
   const context = await browser.newContext({
-    viewport: { width: 1280, height: 800 },
-    colorScheme: 'light',
+    viewport: { width: 1280, height: 900 },
+    colorScheme: 'dark',
   });
 
   for (const ext of EXTENSIONS) {
-    const outputPath = path.join(OUTPUT_DIR, ext.output);
-    await screenshotExtension(context, ext.url, outputPath);
+    await screenshotExtension(context, ext);
   }
 
   await browser.close();
