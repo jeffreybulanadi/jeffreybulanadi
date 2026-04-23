@@ -89,7 +89,7 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 [![Medium](https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeffreybulanadi)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jeffreybulanadi)
 [![Mastodon](https://img.shields.io/badge/Mastodon-Follow-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@jeffreybulanadi)
-[![CoderLegion](https://img.shields.io/badge/CoderLegion-Follow-E44D26?style=for-the-badge)](https://coderlegion.com/@jeffreybulanadi)
+[![CoderLegion](https://img.shields.io/badge/CoderLegion-Follow-E44D26?style=for-the-badge)](https://coderlegion.com/user/jeffreybulanadi)
 
 ---
 
