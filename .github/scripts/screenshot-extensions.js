@@ -31,7 +31,12 @@ async function screenshotExtension(context, url, outputPath) {
 
   try {
     console.log(`Navigating to ${url}`);
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 45000 });
+    // 'networkidle' never fires on the Marketplace (endless background requests).
+    // Use 'domcontentloaded' then wait for a visible content element instead.
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+
+    // Wait for the page title / install count area to appear
+    await page.waitForSelector('body', { timeout: 15000 });
 
     // Dismiss cookie / consent banners if present
     const consentBtn = page
@@ -42,8 +47,8 @@ async function screenshotExtension(context, url, outputPath) {
       await page.waitForTimeout(500);
     }
 
-    // Extra buffer for lazy-loaded stats (install count, rating)
-    await page.waitForTimeout(3000);
+    // Buffer for lazy-loaded stats (install count, rating)
+    await page.waitForTimeout(4000);
 
     // Try to find and screenshot the header element
     let captured = false;
