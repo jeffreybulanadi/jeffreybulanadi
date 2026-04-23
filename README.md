@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jeffrey Bulanadi
+# Hey, I'm Jeffrey Bulanadi
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Software+Artisan+%7C+13%2B+Years;ERP+%26+Systems+Integration+Expert;Full+Stack+Dev+%7C+DevOps+%7C+Cloud;350%2B+Implementations+Worldwide" alt="Typing SVG" />
@@ -10,17 +10,17 @@
 
 ---
 
-### ⚔️ < Character_Sheet />
+### < Character_Sheet />
 
-- 🛡️ **Software Artisan** — Crafting battle-tested solutions from startup to enterprise scale
-- 🧙 **13+ Years of Mastery** spanning the Microsoft and Open Source kingdoms
-- 🗺️ **350+ Quests Completed** across Asia, Australia, Europe, and the United States
-- 🔮 **Tech Alchemist** specializing in ERP transformations, system integrations & modular architecture
-- ☁️ **DevOps Sage** orchestrating CI/CD pipelines across Azure clouds and GitHub repositories
+- **Software Artisan** — Crafting battle-tested solutions from startup to enterprise scale
+- **13+ Years of Mastery** spanning the Microsoft and Open Source kingdoms
+- **350+ Quests Completed** across Asia, Australia, Europe, and the United States
+- **Tech Alchemist** specializing in ERP transformations, system integrations & modular architecture
+- **DevOps Sage** orchestrating CI/CD pipelines across Azure clouds and GitHub repositories
 
 ---
 
-### 🛡️ Armory (Tech Stack)
+### Armory (Tech Stack)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -38,7 +38,7 @@
 
 ---
 
-### 🐍 GitHub Contributions
+### GitHub Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/output/github-contribution-grid-snake-dark.svg" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeffreybulanadi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -67,7 +67,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jeffreybulanadi)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/JeffreyBulanadi)
@@ -78,7 +78,7 @@
 
 ---
 
-### 📈 Weekly Development Breakdown
+### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2054%20mins-blue?style=flat)
