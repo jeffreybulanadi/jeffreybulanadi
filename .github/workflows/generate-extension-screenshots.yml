@@ -1,0 +1,59 @@
+name: Update Extension Showcase
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # 01:00 UTC · 09:00 PHT — captures fresh install counts daily
+  workflow_dispatch:
+
+jobs:
+  screenshot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Playwright
+        run: npm install playwright@latest
+        working-directory: .github/scripts
+
+      - name: Install Chromium
+        run: npx playwright install chromium --with-deps
+        working-directory: .github/scripts
+
+      - name: Screenshot extension headers
+        run: node screenshot-extensions.js
+        working-directory: .github/scripts
+
+      - name: Install ImageMagick
+        run: sudo apt-get install -y imagemagick
+
+      - name: Build animated GIF
+        run: |
+          convert \
+            -delay 400 images/ext-bc-docker-manager.png \
+            -delay 350 images/ext-al-indent-prism.png \
+            -loop 0 \
+            -resize 900x \
+            -dither Riemersma \
+            -colors 192 \
+            -coalesce \
+            -layers optimize \
+            images/extensions-showcase.gif
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images/ext-bc-docker-manager.png \
+                  images/ext-al-indent-prism.png \
+                  images/extensions-showcase.gif
+          git diff --cached --quiet \
+            || git commit -m "chore: refresh extension marketplace screenshots" \
+            && git push

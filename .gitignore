@@ -1,2 +1,7 @@
 # Generated output
 output/
+
+# Playwright / Node dependencies (installed inline in CI, never committed)
+.github/scripts/node_modules/
+.github/scripts/package-lock.json
+.github/scripts/package.json

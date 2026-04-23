@@ -1,0 +1,64 @@
+name: Update Dynamic Content
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # 02:00 UTC · 10:00 PHT — runs daily, only commits on year rollover
+  workflow_dispatch:
+
+jobs:
+  update-years:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate and apply years of experience
+        run: |
+          python3 << 'EOF'
+          import re, datetime, sys
+
+          # Start date: April 2013
+          start = datetime.date(2013, 4, 1)
+          today = datetime.date.today()
+
+          years = today.year - start.year
+          if (today.month, today.day) < (start.month, start.day):
+              years -= 1
+
+          print(f'Calculated: {years}+ years (started {start}, today {today})')
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          # Update <!--YEARS-->N<!--/YEARS--> placeholders (bio + typing SVG)
+          updated = re.sub(
+              r'<!--YEARS-->\d+<!--/YEARS-->',
+              f'<!--YEARS-->{years}<!--/YEARS-->',
+              content
+          )
+
+          if updated == content:
+              print('No change — README already up to date.')
+              sys.exit(0)
+
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated)
+
+          print(f'README updated to {years}+ years.')
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md \
+            || (git add README.md \
+            && git commit -m "chore: bump years of experience to $(python3 -c "
+          import datetime
+          s=datetime.date(2013,4,1); t=datetime.date.today()
+          y=t.year-s.year-(1 if (t.month,t.day)<(s.month,s.day) else 0)
+          print(y)")+years" \
+            && git push)
