@@ -1,7 +1,7 @@
-# Hey, I'm Jeffrey Bulanadi
+# Yo, I'm Jeffrey Bulanadi
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Business+Central.+Reverse+Engineered.;<!--YEARS-->13<!--/YEARS-->%2B+Years+%C2%B7+ERP+%C2%B7+Integrations+%C2%B7+DevOps;350%2B+Implementations+Worldwide;Building+tools.+Writing+deep+dives." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Business+Central.+Reverse+Engineered.;Since+2013+%C2%B7+ERP+%C2%B7+Integrations+%C2%B7+DevOps;350%2B+Implementations+Worldwide;Building+tools.+Writing+deep+dives." alt="Typing SVG" />
 </div>
 
 ---
@@ -9,7 +9,7 @@
 ### < Character_Sheet />
 
 - **Software Artisan**, crafting battle-tested solutions from startup to enterprise scale
-- **<!--YEARS-->13<!--/YEARS-->+ Years of Mastery** spanning the Microsoft and Open Source kingdoms
+- **2013 · <!--CURRENT_YEAR-->2026<!--/CURRENT_YEAR-->** spanning the Microsoft and Open Source kingdoms
 - **350+ Quests Completed** across Asia, Australia, Europe, and the United States
 - **Tech Alchemist** specializing in ERP transformations, system integrations and modular architecture
 - **DevOps Sage** orchestrating CI/CD pipelines across Azure clouds and GitHub repositories
@@ -52,6 +52,18 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jeffreybulanadi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=jeffreybulanadi&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreybulanadi&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
 ### GitHub Contributions
 
 <picture>
@@ -70,12 +82,14 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jeffreybulanadi)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/JeffreyBulanadi)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@0xjeffreybulanadi)
-[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-00A8E8?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/jeffreybulanadi.bsky.social)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@jeffreybulanadi)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/jeffreybulanadi)
+[![Dynamics 365 Community](https://img.shields.io/badge/D365_Community-Connect-FF8C00?style=for-the-badge&logo=microsoft&logoColor=white)](https://community.dynamics.com/members/jeffreybulanadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jeffreybulanadi)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JeffreyBulanadi)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-00A8E8?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/jeffreybulanadi.bsky.social)
+[![Medium](https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jeffreybulanadi)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/jeffreybulanadi)
+[![Mastodon](https://img.shields.io/badge/Mastodon-Follow-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@jeffreybulanadi)
+[![CoderLegion](https://img.shields.io/badge/CoderLegion-Follow-E44D26?style=for-the-badge)](https://coderlegion.com/@jeffreybulanadi)
 
 ---
 
