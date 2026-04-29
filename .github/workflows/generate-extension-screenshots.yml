@@ -42,7 +42,8 @@ jobs:
         run: |
           convert \
             -delay 400 images/ext-bc-docker-manager.png \
-            -delay 350 images/ext-al-indent-prism.png \
+            -delay 400 images/ext-al-indent-prism.png \
+            -delay 400 images/ext-vscodeaquarium.png \
             -loop 0 \
             -resize 900x \
             -dither Riemersma \
@@ -57,6 +58,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images/ext-bc-docker-manager.png \
                   images/ext-al-indent-prism.png \
+                  images/ext-vscodeaquarium.png \
                   images/extensions-showcase.gif \
                   badges/
           git diff --cached --quiet \
