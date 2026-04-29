@@ -17,6 +17,12 @@ const EXTENSIONS = [
     versionColor: '0066CC',
     installColor: '63ba83',
   },
+  {
+    id: 'jeffreybulanadi.vscodeaquarium',
+    slug: 'vscodeaquarium',
+    versionColor: '00ACC1',
+    installColor: '63ba83',
+  },
 ];
 
 function queryMarketplace(extensionId) {

@@ -15,6 +15,11 @@ const EXTENSIONS = [
     output: 'ext-al-indent-prism.png',
     name: 'AL Indent Prism',
   },
+  {
+    url: 'https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.vscodeaquarium',
+    output: 'ext-vscodeaquarium.png',
+    name: 'VSCode Aquarium',
+  },
 ];
 
 // Full-width clip of the page top: captures the VS Marketplace nav bar,

@@ -36,6 +36,13 @@ A lightweight, all-in-one control center for Business Central Docker development
 
 Rainbow indentation colorizer for Business Central AL files. Lightweight, real-time, and fully configurable. Makes nested AL code actually readable.
 
+**[VSCode Aquarium](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.vscodeaquarium)**  
+[![Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/vscodeaquarium-version.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.vscodeaquarium)
+[![Installs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/vscodeaquarium-installs.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.vscodeaquarium)
+[![Rating](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/vscodeaquarium-rating.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.vscodeaquarium)
+
+A living freshwater aquarium inside VS Code. Nineteen sprite-animated species swim, school, grow hungry, and hunt each other in real time while you code.
+
 ---
 
 ### Writing
