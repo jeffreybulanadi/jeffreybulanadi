@@ -52,9 +52,9 @@ A living freshwater aquarium inside VS Code. Nineteen sprite-animated species sw
 Real-world AL patterns, integration secrets, and platform deep dives. Written for developers who want to understand what's actually happening under the hood.
 
 <!--START_SECTION:blog-->
+- [AL Packagist: Business Central AL Symbol Package Manager for VS Code](https://learnbeyondbc.com/blogs/i-built-a-package-manager-for-business-central-al-projects) · May 2026
 - [Manage Business Central Docker Containers with BC Container MCP](https://learnbeyondbc.com/blogs/manage-business-central-docker-containers-with-bc-container-mcp) · May 2026
 - [BC Docker Manager: The Easiest Way to Run Business Central Containers](https://learnbeyondbc.com/blogs/bc-docker-manager-easy-containers) · Apr 2026
-- [Connecting Postman Directly to Azure DevOps & GitHub Repository](https://learnbeyondbc.com/blogs/connecting-postman-to-azure-devops-github-repositories) · Jan 2026
 <!--END_SECTION:blog-->
 
 [20+ posts and counting &rarr;](https://learnbeyondbc.com)
