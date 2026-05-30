@@ -23,6 +23,12 @@ const EXTENSIONS = [
     versionColor: '00ACC1',
     installColor: '63ba83',
   },
+  {
+    id: 'jeffreybulanadi.al-packagist',
+    slug: 'al-packagist',
+    versionColor: '7C3AED',
+    installColor: '63ba83',
+  },
 ];
 
 function queryMarketplace(extensionId) {

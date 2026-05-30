@@ -20,6 +20,11 @@ const EXTENSIONS = [
     output: 'ext-vscodeaquarium.png',
     name: 'VSCode Aquarium',
   },
+  {
+    url: 'https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-packagist',
+    output: 'ext-al-packagist.png',
+    name: 'AL Packagist',
+  },
 ];
 
 // Full-width clip of the page top: captures the VS Marketplace nav bar,
