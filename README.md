@@ -43,6 +43,13 @@ Rainbow indentation colorizer for Business Central AL files. Lightweight, real-t
 
 A living freshwater aquarium inside VS Code. Nineteen sprite-animated species swim, school, grow hungry, and hunt each other in real time while you code.
 
+**[AL Packagist](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-packagist)**  
+[![Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/al-packagist-version.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-packagist)
+[![Installs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/al-packagist-installs.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-packagist)
+[![Rating](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jeffreybulanadi/jeffreybulanadi/main/badges/al-packagist-rating.json&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-packagist)
+
+Browse, search, and install Business Central NuGet symbol packages without leaving VS Code. Resolves packages to the BC version in your app.json, supports 40+ localizations, and works with custom NuGet V3 feeds alongside Microsoft and AppSource.
+
 ---
 
 ### Writing
