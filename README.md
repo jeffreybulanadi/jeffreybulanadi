@@ -118,11 +118,11 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ```text
 💬 Programming Languages: 
-JSON                     4 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.41 % 
-AL                       3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
-Other                    2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-PHP                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+JSON                     4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
+AL                       3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.76 % 
+Other                    1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+PHP                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
 
