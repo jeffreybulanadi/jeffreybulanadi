@@ -112,16 +112,16 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 ### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C095%20hrs%207%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JSON                     3 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.27 % 
-AL                       1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Other                    1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+JSON                     4 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.61 % 
+Other                    1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+AL                       1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Markdown                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 ```
 
 
