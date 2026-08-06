@@ -120,33 +120,33 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
-AL                       2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-JSON                     2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Markdown                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Text                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Other                    3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
+JSON                     2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+AL                       2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Text                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Markdown                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 42 mins (69.22%)
+⏱ AI Coding Time: 8 hrs 1 min (70.92%)
 
-✍️ 1,126 lines written by AI, 20 lines written by hand (98.25% AI-written)
+✍️ 1,245 lines written by AI, 11 lines written by hand (99.12% AI-written)
 
-🔤 173,163 Input Tokens, 814,295 Output Tokens
+🔤 3,538,392 Input Tokens, 799,402 Output Tokens
 
 💵 $21.22 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 102 AI Prompts
+🧠 21 AI Sessions, 99 AI Prompts
 
-Opus                     1,160 lines         █████████████████████████   100.00 % 
+Opus                     1,302 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.25% of written lines came from AI
-📝 Concise Prompter — average 196 characters per prompt
+🤖 AI-Driven — 99.12% of written lines came from AI
+📝 Concise Prompter — average 255 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 10.22% of changed lines were hand-edited
+🚀 High AI Trust — 7.49% of changed lines were hand-edited
 ```
 
 
