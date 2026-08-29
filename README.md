@@ -120,25 +120,25 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Markdown                 2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-AL                       1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-JSON                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Text                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Other                    2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+Markdown                 2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+AL                       1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+JSON                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Text                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 48 mins (76.48%)
+⏱ AI Coding Time: 6 hrs 48 mins (76.45%)
 
 ✍️ 1,654 lines written by AI, 57 lines written by hand (96.67% AI-written)
 
-🔤 5,815,113 Input Tokens, 327,256 Output Tokens
+🔤 3,775,821 Input Tokens, 327,256 Output Tokens
 
-💵 $35.30 Estimated AI Cost This Week
+💵 $16.74 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 110 AI Prompts
+🧠 17 AI Sessions, 110 AI Prompts
 
 Opus                     1,586 lines         ████████████████████████░   95.26 % 
 GPT                      79 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
