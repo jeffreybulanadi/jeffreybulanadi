@@ -120,23 +120,23 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-Markdown                 2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-AL                       1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-JSON                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Text                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Other                    2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+AL                       1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+JSON                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Text                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 48 mins (76.45%)
+⏱ AI Coding Time: 6 hrs 34 mins (76.16%)
 
-✍️ 1,654 lines written by AI, 57 lines written by hand (96.67% AI-written)
+✍️ 1,654 lines written by AI, 55 lines written by hand (96.78% AI-written)
 
-🔤 3,775,821 Input Tokens, 327,256 Output Tokens
+🔤 3,775,821 Input Tokens, 319,985 Output Tokens
 
-💵 $16.74 Estimated AI Cost This Week
+💵 $16.62 Estimated AI Cost This Week
 
 🧠 17 AI Sessions, 110 AI Prompts
 
@@ -144,10 +144,10 @@ Opus                     1,586 lines         ███████████�
 GPT                      79 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.67% of written lines came from AI
-📄 Detailed Prompter — average 872 characters per prompt
+🤖 AI-Driven — 96.78% of written lines came from AI
+📄 Detailed Prompter — average 868 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 10.63% of changed lines were hand-edited
+🚀 High AI Trust — 10.53% of changed lines were hand-edited
 ```
 
 
