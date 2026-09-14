@@ -120,32 +120,32 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ```text
 💬 Programming Languages: 
-JSON                     3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.84 % 
-Other                    2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.64 % 
-AL                       57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-PowerShell               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JSON                     3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.50 % 
+Other                    2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
+AL                       57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+PowerShell               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 12 mins (73.54%)
+⏱ AI Coding Time: 5 hrs 12 mins (74.59%)
 
 ✍️ 486 lines written by AI, 2,595 lines written by hand (15.77% AI-written)
 
-🔤 5,623,833 Input Tokens, 163,047 Output Tokens
+🔤 5,623,833 Input Tokens, 162,577 Output Tokens
 
 💵 $2.72 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 88 AI Prompts
+🧠 13 AI Sessions, 87 AI Prompts
 
 GPT                      495 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 15.77% of written lines came from AI
-📄 Detailed Prompter — average 1,222 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 1,234 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 84.95% of changed lines were hand-edited
 ```
 
