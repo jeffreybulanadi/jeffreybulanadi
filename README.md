@@ -132,21 +132,21 @@ Markdown                 4 mins              ░░░░░░░░░░░�
 ```text
 ⏱ AI Coding Time: 6 hrs 31 mins (73.6%)
 
-✍️ 154 lines written by AI, 17 lines written by hand (90.06% AI-written)
+✍️ 154 lines written by AI, 27 lines written by hand (85.08% AI-written)
 
 🔤 5,822,953 Input Tokens, 143,372 Output Tokens
 
 💵 $1.95 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 77 AI Prompts
+🧠 13 AI Sessions, 77 AI Prompts
 
 GPT                      194 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.06% of written lines came from AI
+🤖 AI-Driven — 85.08% of written lines came from AI
 📚 Verbose Prompter — average 2,118 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 51.5% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 52.68% of changed lines were hand-edited
 ```
 
 
