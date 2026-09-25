@@ -120,33 +120,33 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.98 % 
-JSON                     1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Markdown                 1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-AL                       51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Text                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Other                    2 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.80 % 
+Markdown                 1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+JSON                     1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+AL                       56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 2 mins (76.04%)
+⏱ AI Coding Time: 4 hrs 36 mins (74.29%)
 
-✍️ 175 lines written by AI, 5,987 lines written by hand (2.84% AI-written)
+✍️ 198 lines written by AI, 5,987 lines written by hand (3.2% AI-written)
 
-🔤 14,118,727 Input Tokens, 382,663 Output Tokens
+🔤 11,943,126 Input Tokens, 377,113 Output Tokens
 
-💵 $26.15 Estimated AI Cost This Week
+💵 $27.80 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 81 AI Prompts
+🧠 14 AI Sessions, 70 AI Prompts
 
 GPT                      240 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.84% of written lines came from AI
-📄 Detailed Prompter — average 1,081 characters per prompt
+🧑‍💻 Mostly Hands-On — 3.2% of written lines came from AI
+📄 Detailed Prompter — average 663 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 98.07% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.06% of changed lines were hand-edited
 ```
 
 
