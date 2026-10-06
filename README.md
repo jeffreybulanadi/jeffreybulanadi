@@ -120,35 +120,35 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.29 % 
-AL                       1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Text                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Other                    2 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.75 % 
+AL                       1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+JSON                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Text                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 20 mins (62.41%)
+⏱ AI Coding Time: 5 hrs 11 mins (64.69%)
 
-✍️ 2,786 lines written by AI, 502 lines written by hand (84.73% AI-written)
+✍️ 2,786 lines written by AI, 433 lines written by hand (86.55% AI-written)
 
-🔤 12,091,895 Input Tokens, 668,605 Output Tokens
+🔤 10,725,669 Input Tokens, 619,176 Output Tokens
 
-💵 $31.27 Estimated AI Cost This Week
+💵 $30.99 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 62 AI Prompts
+🧠 8 AI Sessions, 60 AI Prompts
 
 Sonnet                   2,314 lines         ████████████████████░░░░░   80.94 % 
 GPT                      545 lines           █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.73% of written lines came from AI
-📚 Verbose Prompter — average 1,690 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 19.26% of changed lines were hand-edited
+🤖 AI-Driven — 86.55% of written lines came from AI
+📚 Verbose Prompter — average 1,742 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 17.66% of changed lines were hand-edited
 ```
 
 
