@@ -112,7 +112,7 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 ### Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C165%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-249%20hrs%205%20mins-blue?style=flat)
 
@@ -120,35 +120,35 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ```text
 💬 Programming Languages: 
-AL                       2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Other                    2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Markdown                 2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-JSON                     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+AL                       2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Markdown                 2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Other                    2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+JSON                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 28 mins (62.19%)
+⏱ AI Coding Time: 6 hrs 15 mins (61.19%)
 
-✍️ 2,248 lines written by AI, 42 lines written by hand (98.17% AI-written)
+✍️ 2,100 lines written by AI, 41 lines written by hand (98.09% AI-written)
 
-🔤 6,803,765 Input Tokens, 252,694 Output Tokens
+🔤 6,737,037 Input Tokens, 236,398 Output Tokens
 
-💵 $28.79 Estimated AI Cost This Week
+💵 $27.83 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 97 AI Prompts
+🧠 21 AI Sessions, 91 AI Prompts
 
-Opus                     2,093 lines         ████████████████████░░░░░   81.57 % 
-GPT                      473 lines           █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Opus                     1,946 lines         ████████████████████░░░░░   80.45 % 
+GPT                      473 lines           █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.17% of written lines came from AI
-📝 Concise Prompter — average 341 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 8.42% of changed lines were hand-edited
+🤖 AI-Driven — 98.09% of written lines came from AI
+📝 Concise Prompter — average 354 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 8.79% of changed lines were hand-edited
 ```
 
 
