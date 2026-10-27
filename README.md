@@ -59,9 +59,9 @@ Browse, search, and install Business Central NuGet symbol packages without leavi
 Real-world AL patterns, integration secrets, and platform deep dives. Written for developers who want to understand what's actually happening under the hood.
 
 <!--START_SECTION:blog-->
+- [Business Central: Convert User-Defined Permission Sets into AL Permission Set Objects](https://learnbeyondbc.com/blogs/convert-user-defined-permission-sets-to-al-permission-set-objects) · Oct 2026
 - [A Postman Collection for the Business Central API v2.0](https://learnbeyondbc.com/blogs/postman-collection-business-central-api-v2) · Jul 2026
 - [AL Packagist: Business Central AL Symbol Package Manager for VS Code](https://learnbeyondbc.com/blogs/i-built-a-package-manager-for-business-central-al-projects) · May 2026
-- [Manage Business Central Docker Containers with BC Container MCP](https://learnbeyondbc.com/blogs/manage-business-central-docker-containers-with-bc-container-mcp) · May 2026
 <!--END_SECTION:blog-->
 
 [20+ posts and counting &rarr;](https://learnbeyondbc.com)
