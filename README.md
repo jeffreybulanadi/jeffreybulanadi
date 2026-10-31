@@ -120,25 +120,25 @@ Real-world AL patterns, integration secrets, and platform deep dives. Written fo
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.51 % 
-Other                    2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-AL                       1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown                 5 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.78 % 
+Other                    2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+AL                       1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 31 mins (67.55%)
+⏱ AI Coding Time: 10 hrs 31 mins (68.79%)
 
 ✍️ 6,934 lines written by AI, 4,251 lines written by hand (61.99% AI-written)
 
-🔤 12,988,556 Input Tokens, 147,812 Output Tokens
+🔤 12,951,862 Input Tokens, 147,243 Output Tokens
 
-💵 $165.72 Estimated AI Cost This Week
+💵 $165.55 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 146 AI Prompts
+🧠 22 AI Sessions, 146 AI Prompts
 
 Opus                     4,302 lines         ███████████████░░░░░░░░░░   61.80 % 
 K                        2,373 lines         █████████░░░░░░░░░░░░░░░░   34.09 % 
@@ -149,7 +149,7 @@ Copilot                  0 lines             ░░░░░░░░░░░�
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 61.99% of written lines came from AI
 📝 Concise Prompter — average 229 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 38.61% of changed lines were hand-edited
 ```
 
